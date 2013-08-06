@@ -10,6 +10,7 @@ from plover import __url__
 from plover import __download_url__
 from plover import __license__
 
+
 setup(name='plover',
       version=__version__,
       description=__description__,
